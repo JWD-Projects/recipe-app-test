@@ -17,7 +17,8 @@
 - jQuery
 
 ## Requirements:
-1.Add recipes that have names and ingredients --> Add recipes via the Bootstrap modal form
-2.Show a list of all recipes --> Recipes are displayed using a Bootstrap table
-3.Delete recipes --> Recipes are deleted using a delete button which targets the id of a specific recipe 
-4.Recipes are saved in the browser's local storage. --> When the recipes are added they are saved in the browser's local storage
+
+1. Add recipes that have names and ingredients --> Add recipes via the Bootstrap modal form
+2. Show a list of all recipes --> Recipes are displayed using a Bootstrap table
+3. Delete recipes --> Recipes are deleted using a delete button which targets the id of a specific recipe 
+4. Recipes are saved in the browser's local storage. --> When the recipes are added they are saved in the browser's local storage
